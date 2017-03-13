@@ -1,7 +1,7 @@
 package main
 
 import (
-	"test"
+	"testing"
 )
 
 func TestPlayground(t *testing.T) {
