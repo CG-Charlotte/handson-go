@@ -1,5 +1,5 @@
 // Package cmd provides helper functions for testing main packages.
-package main
+package cmd
 
 import (
 	"os/exec"

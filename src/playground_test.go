@@ -2,7 +2,7 @@ package main
 
 import (
 	"testing"
-	"main"
+	"./cmd"
 )
 
 func TestPlayground(t *testing.T) {
