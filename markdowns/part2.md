@@ -3,7 +3,7 @@
 
 This is an example of exercise: the learner can complete the stub to match a test you wrote.
 
-@[Return Hello World!]({"stubs": ["playground.go"], "command": "go test -run  playground_test"})
+@[Return Hello, Playground!]({"stubs": ["playground.go"], "command": "go test -run TestPlayground"})
 
 
 
