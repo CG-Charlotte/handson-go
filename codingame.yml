@@ -1,6 +1,24 @@
-title : Content name
+title : Java Course Template
 plan:
   - title: Part 1
     statement: markdowns/part1.md
   - title: Part 2
     statement: markdowns/part2.md
+projects:
+  java:
+    root: src
+    runner:
+      name: codingame/golang-godep-runner
+      version: 1.1.0-go-1.8
+
+
+
+
+
+
+
+
+
+
+
+
