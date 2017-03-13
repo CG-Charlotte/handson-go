@@ -2,6 +2,7 @@ package main
 
 import (
 	"testing"
+	"main"
 )
 
 func TestPlayground(t *testing.T) {
